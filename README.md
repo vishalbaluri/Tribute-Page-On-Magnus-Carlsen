@@ -23,8 +23,8 @@ This is a simple web page that showcases Magnus Carlsen’s journey from chess p
 ## 📂 File Structure
 
 tribute-page/
-├── tribute.html # Main HTML document
-├── tribute_styles.css # CSS styling for layout and appearance
+├── index.html # Main HTML document
+├── style.css # CSS styling for layout and appearance
 └── README.md # Project documentation
 
 
